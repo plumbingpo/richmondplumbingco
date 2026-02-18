@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richmondplumbingco.com/sitemap.xml
